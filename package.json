@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-fundamentals-prerender",
+  "version": "1.0.0",
+  "description": "My spectacular Nuxt.js project",
+  "author": "Ma. Rowena Tan",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/sitemap": "^2.0.1",
+    "axios": "^0.19.2",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
